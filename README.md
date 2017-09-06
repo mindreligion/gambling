@@ -1,0 +1,2 @@
+# gambling
+Golang test task
